@@ -1,4 +1,3 @@
-# Random-Image-generator-using-react-js 
+1. npm install
 
-click the button to change the image
-npm install
+3. click the button to change the image
